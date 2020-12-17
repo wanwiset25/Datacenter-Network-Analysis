@@ -8,5 +8,8 @@ Traditional 3-layer datacenter architecture model
 ![3-layer](3-layer.PNG)
 
 
+
+
+
 New spine and leaf datacenter architecture model
 ![spine and leaf](spine-and-leaf.PNG)
