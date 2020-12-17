@@ -4,12 +4,12 @@ This is my project for the class EE550: Data Networks: Design and Analysis. It c
 
 Below shows the network topology of the 3-layer model and the spine and leaf model.
 
-Traditional 3-layer datacenter architecture model
+Traditional 3-layer datacenter architecture model:
 ![3-layer](3-layer.PNG)
 
 
 
 
 
-New spine and leaf datacenter architecture model
+New spine and leaf datacenter architecture model:
 ![spine and leaf](spine-and-leaf.PNG)
